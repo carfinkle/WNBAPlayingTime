@@ -12,13 +12,13 @@ December 5, 2024
 
 # Methods and Results: Individual Teams
 
-*Atlanta Dream:*  
+### *Atlanta Dream:*  
 
 {% include_relative figures/ATL.html %}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Atlanta Dream changed its strategy drastically from 2020 to 2021, going from a flatter distribution and utilizing stronger players more to uniform time for everyone. This did not help their ranking in those seasons, as they went from 10th to 11th. 2022 also saw fairly even playing time amongst all players and a return to 10th place. In 2023 and 2024, the distribution shifts to peak below 20 minutes and become wider, indicating that the majority of players saw less than half of the game, but some outliers had higher playing amounts. Their ranking increased in these years as well, to 5th and 8th.  
 
-*Chicago Sky:*  
+### *Chicago Sky:*  
 
 {% include_relative figures/CHI.html %}
 
@@ -28,19 +28,19 @@ December 5, 2024
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; However, Chicago’s best playoff run was in 2021, the team entered the playoffs as the 6th seed and came out with a championship. Their distribution in playing time from the regular season into the playoffs saw a dramatic shift. The team went from a narrow single-peaked distribution to a more uniform, bimodal distribution. The number of minutes played 25th percentile in the regular season was 11.9 compared to the 25th percentile in the playoffs’ 7.4. Similarly the 75th percentile of playing time in the regular season was 26.2 compared to 32.55 in the playoffs.  The Sky changed their strategy entering the playoffs and relied proportionally on their star and bench players. Their stars consistently played around 25-30 minutes compared to the bench’s 5-10 minutes. The bimodal shape of the distribution also reflects the consistency of playing time among the players.   
 
-*Connecticut Sun:*  
+### *Connecticut Sun:*  
 
 {% include_relative figures/CON.html %} 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Connecticut Sun finished with their worst ranking in the past 5 years in 2020 at 7th. The distribution was bell-shaped and peaked around 15 minutes. The next 4 years show multiple peaks, with the highest around 30 minutes and the lower peak less than 10 minutes. This shows that there is unequal playing time on this team with some people playing close to full games and others barely leaving the bench. This strategy appears to work for the Sun as they entered the playoffs in first place in 2021 and have placed 3rd in the years since.  
 
-*Dallas Wings:*
+### *Dallas Wings:*
 
 {% include_relative figures/DAL.html %}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The distribution of playing time in 2020 was incredibly steep and peaked around 20 minutes, indicating that most players saw half of the game. The team finished 9th this year, showing it might not be a great strategy. The distributions continually get flatter as years go on, indicating that some players are seeing higher average playing times and others are seeing lower averages. From 2021 to 2023, the Wings increased their ranking each year, only to fall to 11th in 2024\.  
 
-*Indiana Fever:*
+### *Indiana Fever:*
 
 {% include_relative figures/IND.html %}
 
@@ -48,7 +48,7 @@ December 5, 2024
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; However, this does not appear to be a new tactic for the Fever. 2024 had a similar distribution of playing time compared to previous seasons indicating a growth in chemistry and ability to work together as a team. There were no drastic changes in terms of playing time thus indicating that there must have been a change in the caliber of players the fever brought in and/or the cohesion of the team on the court.   
 
-*Las Vegas Aces:*  
+### *Las Vegas Aces:*  
 
 {% include_relative figures/LVA.html %} 
 	
@@ -60,19 +60,19 @@ December 5, 2024
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Las Vegas also didn’t win the championship in 2024 but did employ the same bimodal distribution of playing time as their previous, championship seasons. However, the Aces did enter the playoffs as the four seed. This could indicate the possible lack of cohesion in the regular season carrying over to the playoffs. Additionally, between 2023 and 2024, the team lost two-time league MVP and starter Candace Parker to retirement/injury[^4] leaving the team to fill the massive void she left. So while the bimodal playing time distribution proved very effective in 2022 and 2023, it didn’t translate to championship success in 2024\.   
 
-*Los Angeles Sparks:*  
+### *Los Angeles Sparks:*  
 
 {% include_relative figures/LAS.html %}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Above is the Los Angeles Sparks playing time distribution over the past 5 seasons. Also included is the final ranking the team finished at the end of each year. The Sparks had incredibly similar distributions in 2021 and 2023, but they finished near the bottom in both years. The team had a more uniform distribution in 2022 and 2024 but finished second-to-last and last in those years respectively. The only year they finished well was in 2020 where they finished 3rd. The distribution is uniform and peaks at lower average minutes than the rest of the distributions, indicating that the playing time was uniform on the team and that they relied more on their bench and subbed consistently.  
 
-*Minnesota Lynx:*  
+### *Minnesota Lynx:*  
 
 {% include_relative figures/MIN.html %} 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Minnesota Lynx are a historically good WNBA franchise and have made the playoffs four of the last five years. They also appear to have some of the most consistent distributions of playing time among WNBA teams in the last five years. All distributions are narrow and have one distinct peak. Excluding 2022, the average number of minutes per game played ranged from 18.16to 19.46 and the standard deviation ranged from 8.74 to 10.79 minutes per game. The 2022 season has the highest peak of all Lynx distributions at around 15 minutes per game. The Lynx therefore had more players playing fewer minutes than stars playing large minutes. This is to be expected because in 2022, the Lynx’s best player,  Napheesa Collier, who finished second in the MVP race in 2024, missed the majority of the season due to maternity leave[^5]. Therefore the Lynx had to adjust to her absence, playing more role players around 10-20 minutes a game. This rotation of players only playing 15 minutes a game may not allow them to “get their footing” and feel comfortable within lineups. The combination of this and the absence of their best player lead to the worst Lynx finish in the last five years: ending the season in ninth place and missing the playoffs all together.   
 
-*New York Liberty:*  
+### *New York Liberty:*  
 
 {% include_relative figures/NYL.html %} 
 
@@ -83,13 +83,13 @@ December 5, 2024
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In both 2023 and 2024, the New York Liberty made it to the championship game, winning it in 2024\. While their regular season distributions were quite uniform, their successful playoff distributions were again bimodal. During their title run, the liberty consistently played their star players more minutes while sprinkling in their role players. They relied equally on both groups with their stars consistently playing 25-45 (higher than 40 because two of the games went into overtime) and bench players playing 5-15 minutes per game.   
 
-*Phoenix Mercury:*
+### *Phoenix Mercury:*
 
 {% include_relative figures/PHO.html %}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 2020, the Phoenix Mercury had a high distribution of players averaging around 20 minutes per game where they finished 5th. In 2021, they also finished 5th, but with a much flatter distribution and utilizing longer playing time for some players. 2022, 2023, and 2024 all have two peaks, one around 10 minutes and one around 30 minutes, indicating that players either played most of the game or a small part. Few played about half of the game. Their ranking decreased as this pattern started, finishing in 8th, 12th, and 7th place in the past three years.  
 
-*Seattle Storm:*  
+### *Seattle Storm:*  
 
 {% include_relative figures/SEA.html %} 
 
@@ -99,7 +99,7 @@ December 5, 2024
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The storm won the championship in 2020 when they entered the playoffs as the two seed. During their successful 2020 run, they had a large number of players playing around 5-15 minutes per game with fewer playing between 20 and 35 minutes. Additionally, in 2020, their regular season distribution did not change much in shape when the team entered the playoffs. This is most likely due to how the 2020 season was structured. The COVID-19 pandemic was running rampant during this time and therefore, the 2020 WNBA season was a condensed and isolated season. Instead of the normal 40 regular season games, the 2020 “Bubble” season was only 20 games[^6]. Because there were less games played in the regular seasons, teams did not need to manage the workload of their star players as much as they would in a season that is double in length. This meant that their lineups could be more consistent in playing time because there was less concern for long-term fatigue. Therefore, the distributions of the regular season and playoffs look more similar to each other than other seasons. 
 
-*Washington Mystics:*  
+### *Washington Mystics:*  
 
 {% include_relative figures/WAS.html %}
 
@@ -107,13 +107,13 @@ December 5, 2024
 
 # Methods and Results: Top and Bottom-Ranked Teams, Championship Teams
 
-*Twelfth-Ranked Teams:*  
+### *Twelfth-Ranked Teams:*  
 
 {% include_relative figures/Twelve.html %}
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the past 5 years, there have been many different distributions of average playing times by teams who ranked last at the end of the season.  In 2020, the New York Liberty had a high density of players who played between 25 and 30 minutes per game, on average, with another small group sitting around the 15-minute range. In 2021, the Indiana Fever finished last with a very even distribution of playing time, with a normal curve centered right around 20 minutes per game. In 2022, the Fever also finished last, but they switched up their strategy. The distribution shifted to peak around the 15-minute mark and had a small hump around 30 minutes. This indicates that they relied heavily on a few players to be in the game, but it was not successful. The 2023 Phoenix Mercury had two sets of players, those who played less than 10 minutes on average and those who played around 30 on average. They relied on a few to do the heavy lifting on the season and that strategy did not result in many wins. Finally, in 2024, the Los Angeles Sparks had fairly even playing time, evenly distributed around 20 minutes, but it did not pay off for them in the end. Overall, there is no clear pattern of playing time distribution for teams who ranked last in the past 5 seasons. Some teams used the entirety of their bench, and some teams relied on their strongest players to do the work, but all of them have room for improvement in the coming years.  
 
-*First-Ranked Teams:*  
+### *First-Ranked Teams:*  
 
 {% include_relative figures/One.html %}
 
@@ -121,7 +121,7 @@ December 5, 2024
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 2020, the Las Vegas aces had a high density of players who played around 18-25 minutes per game with some players averaging 5-18 minutes per game. In 2021, the Connecticut Sun had a large cluster of players averaging around 30 minutes per game and they were supported by a smaller group of role players who played between 5 and 15 minutes per game. In 2022 the Aces had a large density of players who  averaged around ten minutes per game. They also had a smaller group of players who averaged about 30 minutes per game. The following year the Aces’ distribution saw similar values in which the peaks occurred at 10 and 30 minutes respectively. However, the density of those values changed. In 2023 the Aces had a larger group of players who averaged 30 minutes compared to the smaller support players who averaged 10 minutes per game. 2024 saw the New York Liberty have the most uniform playing time distribution of all of the first-place finishing teams. They too had players who appeared to average 30 minutes and players who averaged 10 minutes but the density of those groups was quite similar.   
 
-*Championship Winning Teams:*  
+### *Championship Winning Teams:*  
 
 {% include_relative figures/Title.html %}
 
@@ -137,7 +137,7 @@ December 5, 2024
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To further explore this topic, it would be beneficial to examine the average number of players that teams used throughout the regular season and playoffs. Additionally, rosters in the WNBA are subject to constant changes throughout the season due to trades, injury and suspension. While a few examples of these confounding factors were touched on, a deeper analysis of a team’s movements can tell a more comprehensive story about the success of a team. Additionally, examining how the distribution of playing time changes throughout the regular season, such as before and after the trade deadlines, would be fascinating. Not only could the distributions be drastically different before and after, but they may also average out the results above, potentially obscuring the true nuances of team dynamics. 
 
-### Works Cited
+#### Works Cited
 
 [^1]:  “WNBA.” *WNBA Stats*, stats.wnba.com/. Accessed 7 Dec. 2024\. 
 
