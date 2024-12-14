@@ -3,7 +3,7 @@ CS-215
 December 5, 2024  
 WNBA Playing Time Distributions
 
-1. **Introduction** 
+1. **HI Introduction** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This analysis attempts to examine the relationship between regular-season playing time distributions and final rankings of WNBA teams. The goal is to determine if there is a specific method of determining playing time that is the most successful. Do successful teams only play their best players the majority of the game, or do they utilize their entire bench and evenly distribute the load? The aim is to determine and identify if any successful playing time patterns exist while providing the proper visualizations.  
 
@@ -15,7 +15,6 @@ WNBA Playing Time Distributions
 
 *Atlanta Dream:*  
 
-{% include_relative ATL.html %}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Atlanta Dream changed its strategy drastically from 2020 to 2021, going from a flatter distribution and utilizing stronger players more to uniform time for everyone. This did not help their ranking in those seasons, as they went from 10th to 11th. 2022 also saw fairly even playing time amongst all players and a return to 10th place. In 2023 and 2024, the distribution shifts to peak below 20 minutes and become wider, indicating that the majority of players saw less than half of the game, but some outliers had higher playing amounts. Their ranking increased in these years as well, to 5th and 8th.  
 
