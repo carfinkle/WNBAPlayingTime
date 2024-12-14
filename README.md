@@ -1,6 +1,6 @@
 Gracie Maulik and Carly Martin  
 December 5, 2024  
-
+[Link to CoLab worksheet](carfinkle/WNBAPlayingTime/blob/main/Data_Science_Final_Project_Code.ipynb)
 
 # Introduction
 
